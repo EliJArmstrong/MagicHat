@@ -8,3 +8,6 @@ This web app was made using node, express, ejs, and mongoose. This app uses hero
 [<img src="/MagicHat.png" width="" alt= 'Video Walkthrough'>](http://magichat.magicianmedicine.com)
 
 You can also click the image above to launch the web app. 
+
+
+Magic Hat has been live for 2 years now! 🎩🎉

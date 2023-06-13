@@ -5,7 +5,7 @@ New tech stack for Magic Hat using Angular for the frontend. Firebase hosting an
 
 [Magic Hat](https://magichat.dev/) - Click the link to see the app
 
-[<img src="/MagicHat.png" width="" alt= 'Video Walkthrough'>](https://magichat.dev/)
+[<img src="/NewMagicHat.png" width="" alt= 'Video Walkthrough'>](https://magichat.dev/)
 
 The original site is still up too!!
 

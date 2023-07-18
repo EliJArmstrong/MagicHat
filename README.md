@@ -13,7 +13,7 @@ This web app was made using node, express, ejs, and mongoose. This app uses ~~he
 
 [Magic Hat](https://magichat.magicianmedicine.com/) - Click the link to see the app
 
-[<img src="/MagicHat.png" width="" alt= 'Video Walkthrough'>](http://www.magichat.dev](https://magichat.magicianmedicine.com/)
+[<img src="/MagicHat.png" width="" alt= 'Video Walkthrough'>](https://magichat.magicianmedicine.com/)
 
 You can also click the image above to launch the web app. 
 
